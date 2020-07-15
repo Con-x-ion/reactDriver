@@ -1,0 +1,12 @@
+{
+  "name": "cxn",
+  "displayName": "cxn",
+  "expo": {
+    "name": "cxn",
+    "slug": "cxn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
